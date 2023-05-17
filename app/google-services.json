@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "692877296429",
+    "project_id": "ecoswap-aa608",
+    "storage_bucket": "ecoswap-aa608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692877296429:android:886e75db6ccc3ef2eb89a4",
+        "android_client_info": {
+          "package_name": "com.example.ecoswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692877296429-toctvt6ovdkud1gos108c4avd4ev7ha7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecoswap",
+            "certificate_hash": "ac06bb2fd906b62362797c72be6ddefdda45f8e0"
+          }
+        },
+        {
+          "client_id": "692877296429-8il4c206pssa5pe9ka0sgpn0v7ens6j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RfGJHp4pzOC_NGlsVJbAfjkmEnSdv0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692877296429-8il4c206pssa5pe9ka0sgpn0v7ens6j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
